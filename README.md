@@ -4,7 +4,7 @@
 <!doctype html>
 <html>
   <head>
-    <title>Welcome to my Website! I'm Mirage!</title>
+    <title>Welcome to my Website!</title>
   </head>
   <body>
     <p>My name is: Mirage Phetsany</p>
