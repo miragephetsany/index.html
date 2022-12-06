@@ -5,7 +5,6 @@ Hello World, my name is Mirage!
 
 ------
 
-<!doctype html>
 <html>
   <head>
     <title>Welcome to my Website!</title>
